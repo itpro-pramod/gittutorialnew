@@ -8,5 +8,9 @@ namespace gittutorial
 {
     internal class CreateAccount
     {
+        public CreateAccount()
+        {
+            Console.WriteLine("Create Account");
+        }
     }
 }
